@@ -1,1 +1,3 @@
-# nodejs-developer-extension-pack
+# Nodejs Developer Extension Pack
+
+## VS Code Extensions for NodeJs Developer
